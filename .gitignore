@@ -4,3 +4,5 @@ alo
 *.log 
 #Bo qua file abc.xyz ,giu file.xyz
 /*.xyz
+#Muon bo qua file .txt trong secon_folder
+secon_folder/file.txt
