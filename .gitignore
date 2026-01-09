@@ -2,3 +2,5 @@
 alo
 #Bo qua duoi.log
 *.log 
+#Bo qua file abc.xyz ,giu file.xyz
+/*.xyz
