@@ -1,0 +1,4 @@
+#day la commentt trong file gitignore
+alo
+#Bo qua duoi.log
+*.log 
